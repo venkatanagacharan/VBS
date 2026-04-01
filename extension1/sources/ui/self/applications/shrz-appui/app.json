@@ -1,0 +1,14 @@
+{
+  "id": "shrz-appui",
+  "urlId": "x-Shrz-AppUi",
+  "description": "An App UI",
+  "defaultFlow": "main",
+  "events": {},
+  "types": {},
+  "variables": {},
+  "eventListeners": {},
+  "unifiedAppSettings": {
+    "displayName": "shrz-appui"
+  },
+  "security": {}
+}
